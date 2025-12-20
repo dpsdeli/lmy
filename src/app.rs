@@ -8,8 +8,8 @@ pub fn App() -> impl IntoView {
         <Router>
             <div class="container">
                 <header>
-                    <h1>"dpsdeli"</h1>
-                    <div class="subtitle">"AI Software Engineer"</div>
+                    <h1>"Liu Ming-Yu"</h1>
+                    <div class="subtitle">"AI Product Engineer"</div>
                     <nav>
                         <A href="/">"Home"</A>
                         <A href="/blog">"Blog"</A>
@@ -24,7 +24,7 @@ pub fn App() -> impl IntoView {
                     </Routes>
                 </main>
                 <footer>
-                    <p>"© 2025 dpsdeli. Built with Rust & Leptos."</p>
+                    <p>"© 2025 Liu Ming-Yu. Built with Rust & Leptos."</p>
                 </footer>
             </div>
         </Router>
